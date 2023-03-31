@@ -1,3 +1,10 @@
+.panda
+{
+        width: 400px; height: 200px;
+}
+.ling {
+    width: 500px;
+} 
 {
     margin: 0;
     padding: 0;
@@ -11,7 +18,7 @@ img{
         position: relative;
         width: 100%;
         height: 100vh;
-        background-color: gray;
+        background-color:black;
 }
 nav{
     display: flex;
@@ -28,7 +35,7 @@ nav ul li{
 }
 nav ul li a{
     text-decoration: none;
-    color: rgb(128, 94, 0);
+    color: teal;
     font-weight: bold;
 }
  .detalye{
@@ -37,17 +44,16 @@ nav ul li a{
  }
  .detalye h1{
     font-size: 50px;
-    color: rgb(128, 0, 17);
+    color: teal;
  }
  span{
-    color:rgb(255, 255, 255);
+    color:white;
  }
 .detalye p {
-    color: rgb(255, 255, 255);
+    color: White;
     line-height: 22px;
 }
-.detalye a
-{
+.detalye a{
      background-color: gray;
      padding: 10px 18px;
      text-decoration: none;
